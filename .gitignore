@@ -1,4 +1,11 @@
-bot-env
+botenv
 .env
 spoonbot.log
 __pycache__
+build
+dist
+SpoonBot.egg-info
+develop-eggs
+.installed.cfg
+eggs
+parts
